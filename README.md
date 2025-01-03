@@ -10,6 +10,12 @@
 
 ### blockchain network :- FLOW Testnet
 
+### demo
+
+```bash
+  https://t.me/flowminiappBot/lalalal
+```
+
 ## Installation
 
 Install the template using [thirdweb create](https://portal.thirdweb.com/cli/create)
